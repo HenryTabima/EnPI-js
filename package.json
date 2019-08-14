@@ -1,0 +1,27 @@
+{
+  "name": "enpi-js",
+  "version": "1.0.0",
+  "description": "Javascript library to get Energy Performance Indicators (EnPI) from proccesses data",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HenryTabima/EnPI-js.git"
+  },
+  "keywords": [
+    "enpi",
+    "energy",
+    "performance",
+    "indicators",
+    "energy",
+    "efficiency"
+  ],
+  "author": "Henry Tabima Giraldo <henrytabima.dev@gmail.com> (https://henrytabima.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HenryTabima/EnPI-js/issues"
+  },
+  "homepage": "https://github.com/HenryTabima/EnPI-js#readme"
+}
