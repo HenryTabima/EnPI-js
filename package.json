@@ -2,7 +2,7 @@
   "name": "enpi-js",
   "version": "1.0.0",
   "description": "Javascript library to get Energy Performance Indicators (EnPI) from proccesses data",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "jest"
   },
@@ -23,5 +23,13 @@
   "bugs": {
     "url": "https://github.com/HenryTabima/EnPI-js/issues"
   },
-  "homepage": "https://github.com/HenryTabima/EnPI-js#readme"
+  "homepage": "https://github.com/HenryTabima/EnPI-js#readme",
+  "devDependencies": {
+    "eslint": "^6.2.1",
+    "eslint-config-standard": "^14.0.1",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-node": "^9.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1"
+  }
 }
