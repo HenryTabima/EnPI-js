@@ -39,6 +39,7 @@
     }
   },
   "dependencies": {
-    "@tensorflow/tfjs": "^1.2.8"
+    "@tensorflow/tfjs": "^1.2.8",
+    "nanoutils": "^0.1.2"
   }
 }
